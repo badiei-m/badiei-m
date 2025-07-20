@@ -41,19 +41,12 @@
 
 ---
 
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=badiei-m&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 
-- 📫 Email: [YourEmail@example.com]
-- 🔗 LinkedIn: [Your LinkedIn URL]
-- 🌐 Portfolio: [If you have one]
+- 📫 Email: badiee.ce@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/mohammad-hosein-badiei-87825b226
+- 🌐 Portfolio: https://thisismamad.liara.run/
 
 ---
 
